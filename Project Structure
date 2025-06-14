@@ -1,0 +1,8 @@
+tessarion-x-tech-wiki/
+├── index.md                            # Homepage
+└── wiki/
+    ├── Tessarion-X_Tech-Inc.md         # Main Company Page
+    ├── Dynamic_EV_Series.md            # Internal Wiki Article 1
+    ├── X-Mod_Capsule_Habitat.md        # Internal Wiki Article 2
+    ├── AI_CloneGuard.md                # Internal Wiki Article 3
+    └── Tessarion-X_Ecosystem_App.md    # Internal Wiki Article 4
